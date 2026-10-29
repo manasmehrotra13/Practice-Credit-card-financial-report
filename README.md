@@ -1,3 +1,5 @@
+> Guided practice project (Nov 2024), built by following Rishabh Mishra's YouTube tutorial. The dataset and the report design come from the tutorial; I rebuilt it step by step.
+
 CREDIT CARD FINANCIAL REPORT
 
 TECHNOLOGIES USED: SQL, AND POWER BI
