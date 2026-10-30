@@ -33,3 +33,7 @@ PostgreSQL, SQL, Power BI, DAX.
 - `credit card financial report.pbix`: the Power BI file
 - `credit card customer report.pdf` and `percentage change.pdf`: PDFs of the pages
 - `Customer Report Interactive Dashboard.mp4`: a short screen recording
+
+---
+
+Part of my **guided practice projects** (2024, before my internship). [See all my practice repos](https://github.com/manasmehrotra13?tab=repositories&q=Practice&sort=name) · [Back to my profile](https://github.com/manasmehrotra13)
